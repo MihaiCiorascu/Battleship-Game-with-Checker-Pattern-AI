@@ -11,7 +11,7 @@
 - Can start the application with either user interface (Graphical User Interface or Console)
 ## AI
 - Computer play is competitive against the human player
-- Battleship, which is not a [complete information](https://en.wikipedia.org/wiki/Complete_information) game), uses Checker Pattern
+- Battleship uses Checker Pattern
 
 ## Problem Statement
 
