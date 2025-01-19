@@ -1,19 +1,28 @@
-# :video_game: Let's play
+# :video_game: Let's Play - Battleship Game with GUI
+
+## Overview
+This is a **Battleship Game** designed for competitive gameplay between a **human player** and a **computer player**. The computer player uses the **Checker Pattern** algorithm for strategic moves, making it a challenging opponent.
+
 ## Requirements
-- Uses object-oriented programming and layered architecture
-- All modules except the UI have specifications and PyUnit test cases
-- The program is implemented as a human player vs. computer player game (with the possibility of human player vs. human player OR computer player vs. computer player)
-- The computer player can be Random or Basic (Checker Pattern) 
-- The program protects itself against the user’s invalid input
+- Built using **object-oriented programming** with a **layered architecture**.
+- All modules (except the UI) include detailed specifications and are tested with **PyUnit test cases**.
+- Supports multiple gameplay modes:
+  - **Human vs. Computer** (Checker Pattern or Random AI)
+  - **Human vs. Human**
+  - **Computer vs. Computer**
+- The program includes safeguards against invalid user input.
 
 ## GUI
-- In addition to the console-based user interface, I also implemented a graphical user interface (GUI) for the program
-- Can start the application with either user interface (Graphical User Interface or Console)
+- Features a **Graphical User Interface (GUI)** for an enhanced user experience.
+- Players can choose to start the game with either:
+  - **Graphical Interface**
+  - **Console Interface**
+
 ## AI
-- Computer play is competitive against the human player
-- Battleship uses Checker Pattern
+- The **Checker Pattern** algorithm ensures competitive gameplay from the computer.
+- Provides strategic gameplay for the human player.
 
 ## Problem Statement
 
 ### Battleship
-The game is described [here](https://en.wikipedia.org/wiki/Battleship_(game))
+The game mechanics follow the classic **Battleship** rules. Learn more about the game [here](https://en.wikipedia.org/wiki/Battleship_(game)).
