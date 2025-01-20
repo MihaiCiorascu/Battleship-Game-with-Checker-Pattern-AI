@@ -22,6 +22,16 @@ This is a **Battleship Game** designed for competitive gameplay between a **huma
 - The **Checker Pattern** algorithm ensures competitive gameplay from the computer.
 - Provides strategic gameplay for the human player.
 
+## Console Interface
+Below is a preview of the **console-based user interface**:
+
+![Console Interface](./Screenshot-Console.png)
+
+## GUI Demonstration
+Watch the **Random AI vs Checker Pattern AI** gameplay in the GUI:
+
+[![GUI Demo](./Screenshot-Video-Thumbnail.png)](./Screen-Recording-2025-01-20.mp4)
+
 ## Problem Statement
 
 ### Battleship
