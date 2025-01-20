@@ -23,7 +23,7 @@ This is a **Battleship Game** designed for competitive gameplay between a **huma
 - Provides strategic gameplay for the human player.
 
 ## Console Interface
-Below is a preview of the **console-based user interface** ('0' - empty cell, 'X' - miss, '*' - hit, '<' or '>' - head of the ship, '+' - body of the ship):
+Below is a preview of the **console-based user interface** <br>('0' - empty cell, 'X' - miss, '*' - hit, '<' or '>' - head of the ship, '+' - body of the ship):
 
 <img src="https://github.com/user-attachments/assets/ed822fa2-9de7-444e-a245-dbc362398a22" alt="Console Interface" width="300">
 
