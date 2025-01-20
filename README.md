@@ -33,6 +33,12 @@ Below is a preview of the **console-based user interface**:
 <img src="https://github.com/user-attachments/assets/ed822fa2-9de7-444e-a245-dbc362398a22" alt="Console Interface" width="300">
 
 ## GUI Demonstration
+In the **GUI** version of the game, the following visual indicators are used:  
+- **Green Tiles**: Represent ships.  
+- **Blue Circles**: Indicate a missed shot.  
+- **Orange Circles**: Represent a hit on a ship.  
+- **Red Circles**: Appear when all parts of a ship are hit, indicating the ship has been destroyed.
+
 Watch the **Random AI vs Checker Pattern AI** gameplay in the GUI:
 
 <img src="https://github.com/user-attachments/assets/3f5fb090-6954-4a08-9636-0640f3843191" alt="GUI Demo" width="300">
