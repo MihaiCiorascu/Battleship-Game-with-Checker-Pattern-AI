@@ -25,13 +25,14 @@ This is a **Battleship Game** designed for competitive gameplay between a **huma
 ## Console Interface
 Below is a preview of the **console-based user interface**:
 
-![Console Interface]![Screenshot 2025-01-20 132315](https://github.com/user-attachments/assets/ed822fa2-9de7-444e-a245-dbc362398a22)
+![Screenshot 2025-01-20 132315](https://github.com/user-attachments/assets/ed822fa2-9de7-444e-a245-dbc362398a22)
 
 
 ## GUI Demonstration
 Watch the **Random AI vs Checker Pattern AI** gameplay in the GUI:
 
-![GUI Demo](./Screen-Recording-2025-01-20-131238.mp4)
+![](https://github.com/user-attachments/assets/a84a3c69-4c49-40eb-a808-db8f1bc64db5)
+
 
 ## Problem Statement
 
