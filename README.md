@@ -30,7 +30,7 @@ Below is a preview of the **console-based user interface**:
 ## GUI Demonstration
 Watch the **Random AI vs Checker Pattern AI** gameplay in the GUI:
 
-![GUI Demo](https://github.com/user-attachments/assets/83628ad0-a549-4c95-b7c0-48506e9bb44e)
+![GUI Demo](./Screen-Recording-2025-01-20-131238.mp4)
 
 ## Problem Statement
 
