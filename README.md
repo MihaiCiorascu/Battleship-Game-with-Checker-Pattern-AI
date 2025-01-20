@@ -31,7 +31,7 @@ Below is a preview of the **console-based user interface**:
 ## GUI Demonstration
 Watch the **Random AI vs Checker Pattern AI** gameplay in the GUI:
 
-![Gui Video](https://github.com/user-attachments/assets/a84a3c69-4c49-40eb-a808-db8f1bc64db5)
+![Gui Demo](./battleOfAI)
 
 
 ## Problem Statement
